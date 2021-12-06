@@ -56,5 +56,5 @@ The Goal of this app is to perform simple CRUD operations and to show how data i
 - [Click Here](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/tree/main/assignment6/Postman)
 
 #### ***SCREENSHOTS DEMO***
-![1.png](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/blob/main/assignment5/Postman/1.png)
-![2.png](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/blob/main/assignment5/Postman/8.png)
+![1.png](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/tree/main/assignment6/Postman/1.png)
+![2.png](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/tree/main/assignment6/Postman/8.png)
