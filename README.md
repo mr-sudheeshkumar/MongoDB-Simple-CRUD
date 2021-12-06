@@ -4,7 +4,7 @@
 ## **GOAL**
 The Goal of this app is to perform simple CRUD operations and to show how data is being posted from "POSTMAN" and how it is routed through our router using EXPRESS and then onto "MongoDB" database.
 
-### ***Assignment 5***
+### ***Assignment 6***
 ##### *It's a simple CRUD app with MongoDB about series database.*
 
 ## FRAMEWORKS
