@@ -6,7 +6,7 @@ app.use(express.json());
 const port = 5000;
 const mongoose = require("mongoose");
 
-app.get('/', (req, res) => res.send('Welcome to series database management homepage.')res.end());
+app.get('/', (req, res) => res.send('Welcome to series database management homepage.'));
 
 //Mongo DB connection
 mongoose.connect(process.env.MONGOURL).then(() => console.log("MONGO DB connected."));
