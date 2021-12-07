@@ -14,6 +14,11 @@ The Goal of this app is to perform simple CRUD operations and to show how data i
 ## DATABASE
 ![mongodb](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 
+
+## CLOUD
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+
 ## SCHEMA
 
 #### SERIES
