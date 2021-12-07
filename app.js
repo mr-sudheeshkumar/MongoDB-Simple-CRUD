@@ -17,4 +17,4 @@ const platformRoute = require("./routes/platform");
 app.use("/series", seriesRoute);
 app.use("/platform", platformRoute);
 
-app.listen(port, () => console.log(`Server running on port ${port}`));
+app.listen(process.env.PORT || port, () => console.log(`Server running on port ${port}`));
