@@ -54,9 +54,18 @@ The Goal of this app is to perform simple CRUD operations and to show how data i
 ## ***HEROKU App Link***
 ### - [Click Here](https://series-database-management.herokuapp.com/)
 
+
+## ***SCREENSHOTS OF HEROKU APP***
+### - [Click Here](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/tree/main/Postman/Heroku)
+
+
 ## ***SCREENSHOTS***
 - [Click Here](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/tree/main/Postman)
 
-#### ***SCREENSHOTS DEMO***
+### ***HEROKU SCREENSHOTS DEMO***
+![1.png](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/blob/main/Postman/Heroku/1.png)
+![2.png](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/blob/main/Postman/Heroku/8.png)
+
+### ***SCREENSHOTS DEMO***
 ![1.png](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/blob/main/Postman/1.png)
 ![2.png](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/blob/main/Postman/8.png)
