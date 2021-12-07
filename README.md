@@ -52,7 +52,7 @@ The Goal of this app is to perform simple CRUD operations and to show how data i
 - delete platform
 
 ## ***HEROKU App Link***
-- [Click Here](https://series-database-management.herokuapp.com/)
+### - [Click Here](https://series-database-management.herokuapp.com/)
 
 ## ***SCREENSHOTS***
 - [Click Here](https://github.com/mr-sudheeshkumar/MongoDB-Simple-CRUD/tree/main/Postman)
